@@ -1,0 +1,14 @@
+C:\Users\acer\Documents\Kuliah\PMM UIN SUKA\Pemrograman Platform Desktop dan Embedded\Attendance Management System\bin\Debug\Attendance Management System.exe.config
+C:\Users\acer\Documents\Kuliah\PMM UIN SUKA\Pemrograman Platform Desktop dan Embedded\Attendance Management System\bin\Debug\Attendance Management System.exe
+C:\Users\acer\Documents\Kuliah\PMM UIN SUKA\Pemrograman Platform Desktop dan Embedded\Attendance Management System\bin\Debug\Attendance Management System.pdb
+C:\Users\acer\Documents\Kuliah\PMM UIN SUKA\Pemrograman Platform Desktop dan Embedded\Attendance Management System\obj\Debug\Attendance Management System.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\Kuliah\PMM UIN SUKA\Pemrograman Platform Desktop dan Embedded\Attendance Management System\obj\Debug\Attendance_Management_System.PAL.Forms.FormLogin.resources
+C:\Users\acer\Documents\Kuliah\PMM UIN SUKA\Pemrograman Platform Desktop dan Embedded\Attendance Management System\obj\Debug\Attendance_Management_System.Properties.Resources.resources
+C:\Users\acer\Documents\Kuliah\PMM UIN SUKA\Pemrograman Platform Desktop dan Embedded\Attendance Management System\obj\Debug\Attendance Management System.csproj.GenerateResource.cache
+C:\Users\acer\Documents\Kuliah\PMM UIN SUKA\Pemrograman Platform Desktop dan Embedded\Attendance Management System\obj\Debug\Attendance Management System.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\Kuliah\PMM UIN SUKA\Pemrograman Platform Desktop dan Embedded\Attendance Management System\obj\Debug\Attendance Management System.exe
+C:\Users\acer\Documents\Kuliah\PMM UIN SUKA\Pemrograman Platform Desktop dan Embedded\Attendance Management System\obj\Debug\Attendance Management System.pdb
+C:\Users\acer\Documents\Kuliah\PMM UIN SUKA\Pemrograman Platform Desktop dan Embedded\Attendance Management System\bin\Debug\Attendance.dll
+C:\Users\acer\Documents\Kuliah\PMM UIN SUKA\Pemrograman Platform Desktop dan Embedded\Attendance Management System\obj\Debug\Attendance Management System.csproj.CopyComplete
+C:\Users\acer\Documents\Kuliah\PMM UIN SUKA\Pemrograman Platform Desktop dan Embedded\Attendance Management System\obj\Debug\Attendance_Management_System.PAL.Forms.FormForgotPassword.resources
+C:\Users\acer\Documents\Kuliah\PMM UIN SUKA\Pemrograman Platform Desktop dan Embedded\Attendance Management System\obj\Debug\Attendance_Management_System.PAL.Forms.FormMain.resources
